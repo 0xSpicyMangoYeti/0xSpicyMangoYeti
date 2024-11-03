@@ -21,7 +21,14 @@
 
 ### GitHub Stats
 
-<img align="left" alt="Mango Yeti's GitHub Stats" src="https://github-readme-stats-kappa-ashy-25.vercel.app/api?username=0xSpicyMangoYeti&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p>
+<img align="left" alt="Mango Yeti's GitHub Stats" src="https://github-readme-stats-kappa-ashy-25.vercel.app/api?username=0xSpicyMangoYeti&theme=date_night&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+
+
+![Top Langs](https://github-readme-stats-kappa-ashy-25.vercel.app/api/top-langs/?username=0xSpicyMangoYeti&layout=compact&theme=date_night)
+<br>
+</p>
+
 
 ### Connect with me:
 [<img height="32" width="32" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true"/>](https://www.linkedin.com/in/mahir-a-ab4152131/)
